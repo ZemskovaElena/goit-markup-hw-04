@@ -476,6 +476,9 @@ margin-right: auto;
   margin-top: 30px;
   flex-basis: calc((100%-270px)/9);
   background: #FFFFFF;
+}
+
+.project-link-item {
   display: block;
 }
 
@@ -626,11 +629,11 @@ margin-right: auto;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #FFFFFF;
-margin-top: 12px;
 }
 
 .cont-ft {
   display: flex;
+  align-items: baseline;
 }
 
 .social-list-ft {
